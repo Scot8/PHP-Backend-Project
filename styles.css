@@ -1,0 +1,40 @@
+body
+{
+    background-color: #DAFDBA;
+    color: #1E152A;
+    font-size: 1.2em;
+}
+
+
+
+button:hover
+{
+    background-color: #DAFDBA;
+}
+
+
+button
+{
+    background-color: #9AEBA3;
+    background-color: #DAFDBA;
+    border: #DAFDBA;
+    margin-top: 2em;
+}
+
+
+input
+{
+    color: #1E152A;
+}
+
+textarea
+{
+    word-wrap: hard;
+}
+
+.datapair
+{
+    font-size: 1.2em;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
